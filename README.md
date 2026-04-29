@@ -36,7 +36,7 @@ Basic exploratory data analysis (EDA).
 
 Data validation and consistency checks.
 
-##Project Report
+## Project Report
 
 A full report of the graduation project is included for reference.
 
